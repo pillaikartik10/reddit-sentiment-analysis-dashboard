@@ -1,3 +1,5 @@
+https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2Freddit-sentiment-app.herokuapp.com%2F  
+  
 # Reddit Post Sentiment Analysis Dashboard  
   
 On providing a valid URL to a Reddit Post, sentiment analysis on the post comments is carried out. The sentiment scores thus obtained are shown in a graphical manner, along with the basic details of the post such as title, date of submission, upvotes etc.  
@@ -5,7 +7,7 @@ Hosted on Heroku, [here](https://reddit-sentiment-app.herokuapp.com/).
   
 ## Overview  
   
-[Reddit](https://www.reddit.com/) is a widely used social media website, with emphasis on social news aggregation, discussion and user content. In this project, we carry out sentiment analysis on the comments of a particular post, and show the results in graphical form. The extraction of comments is done using the [Python Reddit API Wrapper(PRAW)](https://praw.readthedocs.io/en/latest/), the front-end is developed using [Dash Plotly](https://dash.plotly.com/), the sentiment analysis is performed using [TextBlob](https://textblob.readthedocs.io/en/dev/), and the project is hosted on [Heroku](https://www.heroku.com/). https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2Freddit-sentiment-app.herokuapp.com%2F    
+[Reddit](https://www.reddit.com/) is a widely used social media website, with emphasis on social news aggregation, discussion and user content. In this project, we carry out sentiment analysis on the comments of a particular post, and show the results in graphical form. The extraction of comments is done using the [Python Reddit API Wrapper(PRAW)](https://praw.readthedocs.io/en/latest/), the front-end is developed using [Dash Plotly](https://dash.plotly.com/), the sentiment analysis is performed using [TextBlob](https://textblob.readthedocs.io/en/dev/), and the project is hosted on [Heroku](https://www.heroku.com/).  
   
 ## Dependencies Used  
   
