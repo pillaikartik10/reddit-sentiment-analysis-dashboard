@@ -1,5 +1,3 @@
-<img src = "https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2Freddit-sentiment-app.herokuapp.com%2F">  
-  
 # Reddit Post Sentiment Analysis Dashboard  
   
 On providing a valid URL to a Reddit Post, sentiment analysis on the post comments is carried out. The sentiment scores thus obtained are shown in a graphical manner, along with the basic details of the post such as title, date of submission, upvotes etc.  
